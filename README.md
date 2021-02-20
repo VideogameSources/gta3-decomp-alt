@@ -1,5 +1,3 @@
-# Take Two, all of their employees, and anyone who supports them can go fuck themselves :). Sincerely, Starman. 
-
 # re3
 [![Build status](https://ci.appveyor.com/api/projects/status/hyiwgegks122h8jg/branch/master?svg=true)](https://ci.appveyor.com/project/aap/re3/branch/master)
 <a href="https://discord.gg/jYpXxTm"><img src="https://img.shields.io/badge/discord-join-7289DA.svg?logo=discord&longCache=true&style=flat" /></a>
